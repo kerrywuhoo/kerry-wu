@@ -9,6 +9,7 @@ A place to store my current personal website.
 - New pages to detail Projects
 
 
+
 # Dev Portfolio
 
 All credit goes to [Ryan Fitzgerald's](https://github.com/RyanFitzgerald) for creating an amazing portfolio template. 
